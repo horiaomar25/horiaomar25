@@ -8,6 +8,10 @@ I'm a former teaching assistant on my way to a career change in tech. <br><br>I 
 | EduTask   |   Upcoming     |   
 | Final Project | upcoming     |  
 
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/horiaomar) 
