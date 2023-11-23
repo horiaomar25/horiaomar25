@@ -4,13 +4,14 @@ I'm a former teaching assistant on my way to a career change in tech. <br><br>I 
 ## Projects
 | Projects       | Link         | 
 | ------------- |:-------------:|                                                 |
-| BootCamp Kitchen       | [!Demo(https://bc15-w8-project-front-end-fully-stacked.vercel.app/)) |
+| BootCamp Kitchen       | [Demo](https://bc15-w8-project-front-end-fully-stacked.vercel.app/)) |
 | EduTask   |   Upcoming     |   
 | Final Project | upcoming     |  
 
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
+| Projects  |Link  | 
+| BootCamp Kitchen   |  [Demo](https://bc15-w8-project-front-end-fully-stacked.vercel.app/))  | 
+| Final Project | Upcoming | 
+| EduTask | Upcoming | 
 
 
 ## 🌐 Socials:
