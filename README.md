@@ -6,7 +6,7 @@ I'm a former teaching assistant on my way to a career change in tech. <br><br>I 
 
 | Project Name       | Link       |
 |--------------------|------------|
-| BootCamp Kitchen   | [Demo](demo-link](https://bc15-w8-project-front-end-fully-stacked.vercel.app/) |
+| BootCamp Kitchen   | [Demo](https://bc15-w8-project-front-end-fully-stacked.vercel.app/) |
 | Final Project      | [Upcoming](upcoming-link) |
 | EduTask            | [Upcoming](upcoming-link) |
 
