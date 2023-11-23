@@ -1,18 +1,14 @@
 # 💫 About Me:
 I'm a former teaching assistant on my way to a career change in tech. <br><br>I have a degree in History. <br><br>I embarked on a career in teaching, which was a very rewarding experience. <br><br>However, I found that I missed learning about new concepts like I had when I was studying History at university.<br><br>I came across software engineering/development when searching on the internet. <br><br>After watching a couple of videos on HTML and CSS, I found I was really curious about coding. <br><br>I bought a Udemy course and got stuck into it. I loved it!<br><br>It was everything that I enjoyed. <br><br>Programming/coding was creative, challenging, and really required me to think.
 
+
 ## Projects
-| Projects       | Link         | 
-| ------------- |:-------------:|                                                 |
-| BootCamp Kitchen       | [Demo](https://bc15-w8-project-front-end-fully-stacked.vercel.app/)) |
-| EduTask   |   Upcoming     |   
-| Final Project | upcoming     |  
 
-| Projects  |Link  | 
-| BootCamp Kitchen   |  [Demo](https://bc15-w8-project-front-end-fully-stacked.vercel.app/))  | 
-| Final Project | Upcoming | 
-| EduTask | Upcoming | 
-
+| Project Name       | Link       |
+|--------------------|------------|
+| BootCamp Kitchen   | [Demo](demo-link](https://bc15-w8-project-front-end-fully-stacked.vercel.app/) |
+| Final Project      | [Upcoming](upcoming-link) |
+| EduTask            | [Upcoming](upcoming-link) |
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/horiaomar) 
