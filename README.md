@@ -5,8 +5,8 @@ After working in education, I found tech to be an exciting career that allows yo
 
 ## Projects
 
-| Project Name       | Link       |
-|--------------------|------------|--------------------------------------------------------|------------------------------------------------------------------------------------------
+| Project Name       | Link       |               Repo                                                                       |
+|--------------------|------------|------------------------------------------------------------------------------------------|
 | BootCamp Kitchen   | [Demo](https://bc15-w8-project-front-end-fully-stacked.vercel.app/) | [Repo](https://github.com/horiaomar25/bc15-w8-project-fully-stacked-bootcamp-kitchen) 
 | Lend Logic     | [Demo](https://land-logic-app-frontend.vercel.app/) | [Repo](https://github.com/MartiZu/LendLogic-app) 
 | EduTask            | [Demo](https://edu-task-horias-projects-dc29575b.vercel.app/) | [Repo](https://github.com/horiaomar25/edu-task) 
