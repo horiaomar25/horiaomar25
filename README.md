@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a former teaching assistant on my way to a career change in tech. <br><br>I have a degree in History. <br><br>I embarked on a career in teaching, which was a very rewarding experience. <br><br>However, I found that I missed learning about new concepts like I had when I was studying History at university.<br><br>I came across software engineering/development. <br><br>After watching a couple of videos on HTML and CSS, I found I was really curious about coding. <br><br>I bought a Udemy course and got stuck into it. I loved it!<br><br>It was everything that I enjoyed. <br><br>Programming/coding was creative, challenging, and really required me to think.
+I am a hard working, keen to learn and a self motivated person. My journey at The School of Code has taught me the importance of teamwork, communication and continuous learning.
+After working in education, I found tech to be an exciting career that allows you to help others and challenge yourself. which is a great appeal to me.
 
 
 ## Projects
