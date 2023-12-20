@@ -7,8 +7,8 @@ I'm a former teaching assistant on my way to a career change in tech. <br><br>I 
 | Project Name       | Link       |
 |--------------------|------------|
 | BootCamp Kitchen   | [Demo](https://bc15-w8-project-front-end-fully-stacked.vercel.app/) |
-| Final Project      | [Upcoming](upcoming-link) |
-| EduTask            | [Upcoming](upcoming-link) |
+| Lend Logic     | [Ongoing Project](https://land-logic-app-frontend.vercel.app/) |
+| EduTask            | [Demo](https://edu-task-horias-projects-dc29575b.vercel.app/) |
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/horiaomar) 
