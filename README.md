@@ -10,7 +10,7 @@ I am a hard working, keen to learn and a self motivated person. My journey at Th
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [here](http://portfolio-site-jet-nu.vercel.app/)
 * ✉️  You can contact me at [horiaomar6@gmail.com](mailto:horiaomar6@gmail.com)
-* 🧠  I'm learning Java
+* 🧠  I'm learning Data Structures and Algorithm
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I love to reading
 
