@@ -13,7 +13,7 @@ After working in education, I found tech to be an exciting career. It allows you
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [here](http://portfolio-site-jet-nu.vercel.app/)
 * ✉️  You can contact me at [horiaomar6@gmail.com](mailto:horiaomar6@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithm
+* 🧠  I'm building new projects
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I love to reading
 
