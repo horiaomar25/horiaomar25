@@ -24,6 +24,8 @@ I find the creativity and problem solving of web development to be an exciting c
 | BootCamp Kitchen | [Demo](https://bc15-w8-project-front-end-fully-stacked.vercel.app/)  | [Repo](https://github.com/horiaomar25/Bootcamp-Kitchen-)                      |
 | Lend Logic     | [Demo](https://land-logic-app-frontend.vercel.app/)                   | [Repo](https://github.com/MartiZu/LendLogic-app)                              |
 | EduTask        | [Demo](https://edu-task-horias-projects-dc29575b.vercel.app/)         | [Repo](https://github.com/horiaomar25/edu-task)                               |
+| NovaStore       | [Demo](https://nova-store-bay.vercel.app/)         | [Repo](https://github.com/horiaomar25/NovaStore)                               |
+
 
 
 
