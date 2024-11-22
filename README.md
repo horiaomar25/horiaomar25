@@ -12,7 +12,6 @@ I find the creativity and problem solving of web development to be an exciting c
 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [here](http://portfolio-site-jet-nu.vercel.app/)
-* ✉️  You can contact me at [horiaomar6@gmail.com](mailto:horiaomar6@gmail.com)
 * 🧠  I'm building new projects
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I love to reading
