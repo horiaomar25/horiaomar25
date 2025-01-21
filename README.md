@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
 
 Junior Software Developer
----------------------------
+
 
 I am a Junior Software Developer with a background in education. I have always had a passion for learning. It was one of the reasons why I went on to pursue a degree in History. I am a hard worker and enjoy a challenge. I am self-motivated and enjoy working as part of a team. I am looking forward to starting my career in tech.
 
