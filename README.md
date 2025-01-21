@@ -1,10 +1,7 @@
 # 💫 About Me:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Horia 
 
-Junior Software Developer
-
-
-I am a Junior Software Developer with a background in education. I have always had a passion for learning. It was one of the reasons why I went on to pursue a degree in History. I am a hard worker and enjoy a challenge. I am self-motivated and enjoy working as part of a team. I am looking forward to starting my career in tech.
+I am a Junior Software Developer with a background in education. I have always had a passion for learning.  I am a hard worker and enjoy a challenge. I am self-motivated and enjoy working as part of a team. I am looking forward to starting my career in tech.
 
 Why Tech?
 I find the creativity and problem solving of web development to be an exciting career. It allows you to always keep learning and be able to be creative. You are solving problems to help people in their everyday lives. I really enjoy the teamwork in software development as you always learn from other around you.
