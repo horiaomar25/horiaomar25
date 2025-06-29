@@ -10,7 +10,7 @@ I find the creativity and problem solving of web development to be an exciting c
 * 🖥️  See my portfolio at [here](http://portfolio-site-jet-nu.vercel.app/)
 * 🧠  I'm building new projects
 * 🤝  I'm open to collaborating on interesting projects.
-* ⚡  I love to reading
+* ⚡  I love reading
 
 ## Projects
 
